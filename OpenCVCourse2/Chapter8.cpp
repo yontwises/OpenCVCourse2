@@ -7,7 +7,7 @@
 using namespace cv;
 using namespace std;
 
-//// Importing Images
+//// Face Detection
 int main() {
 
 	string path = "Resources/test.png";
